@@ -1,1 +1,1 @@
-This is README of git
+This is README of github.com
